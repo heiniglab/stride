@@ -22,7 +22,7 @@ Then copy the binary to a place that is in your execution path or use it locally
 
 ## User documentation
 
-[http://stride.helmholtz-munich.de/stride/stride.doc](http://stride.helmholtz-munich.de/stride/stride.doc)
+[doc/](doc/)
 
 ## License note
 Please note that all source code contains license information. The following exception is in place for the license of the NSC software: NSC is free for all in the special case if the NSC program is used, copied or in any form applied as integral part of STRIDE and only in this context.
